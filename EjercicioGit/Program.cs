@@ -12,6 +12,7 @@ namespace EjercicioGit
         {
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("En clases ");
+            //Practicando
             Console.ReadKey();
         }
     }
